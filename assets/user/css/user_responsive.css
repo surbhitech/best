@@ -1,0 +1,754 @@
+@media (max-width: 1240px) {}
+
+@media (max-width: 1200px) {
+.expertdashboard .table {
+margin-bottom: 50px;
+width: 766px;
+}
+.table-responsive {
+display: block;
+overflow-x: auto;
+white-space: nowrap;
+}
+.ptipf p,
+.tedcont p {
+font-size: 12px;
+}
+.setshd {
+font-size: 11px;
+margin-top: 7px;
+}
+.nmobes input {
+width: 57%;
+left: 81px;
+}
+.tedcont h5 {
+font-size: 15px;
+}
+.w3fearidr {
+margin-top: 9px;
+}
+.virigt {
+margin: 10px 0px;
+}
+.orthop h4 {
+font-size: 11px;
+}
+.waitid {
+font-size: 11px;
+font-weight: 600;
+}
+.telmess1 {
+margin-top: 18px;
+}
+.nub199 p {
+font-size: 9px;
+}
+.ptipf b {
+font-size: 10px;
+}
+.main-report b {
+font-size: 13px;
+}
+.fullfect P {
+font-size: 13px;
+text-align: center;
+}
+.mainlike a {
+font-size: 13px;
+}
+.lart {
+margin-top: 10px;
+margin-bottom: 0px;
+}
+.left-soderr p,
+.right-soderr p {
+font-size: 15px;
+}
+.servheath ul li {
+left: 40%;
+}
+.ics_ght h4 {
+font-size: 24px!important;
+}
+.navbar-default .navbar-nav > li > a {
+width: 118px;
+}
+.getfour span a {
+font-size: 12px;
+}
+.veyday h4 {
+line-height: 32px;
+font-size: 20px;
+}
+}
+
+@media (max-width: 1100px) {
+.mtexop {
+padding: 20px 10px;
+}
+}
+
+@media (max-width: 991px) {
+.formtype4 {
+clear: both;
+margin-top: 53px;
+overflow: hidden;
+}
+.setfomemd .form-control {
+height: 34px;
+margin-bottom: 10px;
+}
+.setfomemd .form-group {
+margin-bottom: 0px;
+}
+}
+
+@media (max-width: 767px) {
+	.movilephoe{margin-bottom: 9px;}
+	.movilephoe input{border: 1px solid #ccc;}
+.quest_type    {height: 54px;}
+.userdashboard {
+margin: 0px 0px 14px 15px;
+}
+.user_sidet	li{    width: 46.6%!important;
+margin: 3px 4px;}
+.exp_home1 p {   
+max-width: 100%;
+margin: 5px 0px 2px 4px;
+text-align: center;
+padding: 3px;
+}
+.userdashboard .tell_tavle p {
+    font-size: 14px;
+    height: 31px;
+
+}
+.userdashboard .settop ,.userdashboard .settop1{
+
+padding: 3px;
+}
+
+.userdashboard .topbot {
+  font-size: 14px;
+    margin: 3px 0px 15px;
+    font-weight: normal;
+    height: 23px;
+
+}
+.user-panel {
+padding: 2px 0px 0px;
+
+}
+.settabs .nav-tabs>li.active>a, .settabs .nav-tabs>li.active>a:focus, .settabs .nav-tabs>li.active>a:hover {
+cursor: default;
+background-color: #f77917;
+border: 1px solid #ddd;
+color: #fff;     font-weight: 600;
+}
+.checouyt label {
+margin-left: 0px !important;
+}
+.urgley0 {
+text-align: left;
+}
+.artuupad label,
+.namesub button,
+.setfomemd button {
+    margin-bottom: 1px;
+    padding: 1px 14px;
+    font-size: 15px;
+
+}
+.ui-datepicker {
+   
+    top: 361px !important;
+}
+
+
+.artuupad .form-group {
+margin-bottom: 2px;
+}
+.expert_setpanel .accordion-toggle {
+font-size: 17px;
+}
+.setfomemd {
+margin-top: 20px;
+padding: 0 3px 0 9px;
+}
+.setfomemd label {
+font-size: 14px;
+margin-top: 7px;
+clear: both;
+padding: 0px 0px 0px 10px;
+}
+.artuupad {
+margin-top: 10px;
+}
+.namesub {
+margin: 22px 0;
+}
+
+.sidebar-menu>li>a:after {
+content: "";
+display: none;
+}
+.skin-blue .sidebar a {
+    font-size: 15px;
+    padding: 8px 6px 8px;
+}
+.user-panel>.image>img {
+width: 69%;
+height: 87px;
+}
+.treeview-menu>li {
+margin: 0;
+padding: 0px;
+}
+.sidebar-menu li>a>.pull-right-container {
+margin-top: -6px;
+}
+.sidebar-menu {
+list-style: none;
+margin: 8px;
+]
+}
+.expert_setpanel .panel-default>.panel-heading {
+padding: 10px 15px;
+}
+.expert_setpanel .panel-body {
+padding: 4px 0px;
+}
+.expert_setpanel {
+display: block;
+position: absolute;
+z-index: 9;
+background: #0000FF;
+width: 100%;
+top: 6px;
+}
+
+
+.mtexop {
+margin: 0 1px;
+padding: 0px 3px;
+}
+.main-sidebar {
+position: absolute;
+top: 50px;
+}
+.wrapper {
+margin-top: 90px;
+}
+.talkds {
+display: none;
+}
+.populd h3 {
+padding-bottom: 9px;
+}
+.sider-hedre {
+margin-top: 0px;
+}
+.servide p {
+height: 150px;
+margin-top: 0px;
+}
+.servide {
+margin-top: -10px;
+}
+.orthop .form-control {
+height: 270px!important;
+font-size: 13px;
+}
+.foot-logo img {
+width: 40%;
+}
+.bord-line {
+padding: 1px 0;
+}
+.navbar-default .navbar-nav > li > a {
+width: 159px;
+}
+.ics_ght h4 {
+font-size: 15px!important;
+}
+.featight {
+padding-bottom: 0px;
+height: auto;
+}
+.short-lines,
+.full-lines {
+display: none;
+}
+.servheath ul li {
+left: 40%;
+}
+.patilove ul li {
+padding: 0px 25px;
+font-size: 13px;
+}
+.servheath ul li a {
+font-size: 25px;
+}
+.servheath ul {
+margin-right: 14px;
+margin-left: 14px;
+}
+.nmobes input {
+width: 86%;
+}
+.rventer {
+margin-bottom: 10px;
+}
+.ask-foot ul li {
+padding: 2px 10px;
+}
+.telmess1 {
+margin-top: 51px;
+}
+.ret-fted {
+padding-bottom: 20px;
+margin-bottom: 10px;
+}
+.monthd {
+height: auto;
+}
+.featgri {
+margin-top: 6px;
+}
+.foiyediv {
+padding: 0px;
+}
+}
+@media (max-width:991px) {
+.navbar-collapse.pull-left {
+float: none !important
+}
+.navbar-collapse.pull-left+.navbar-custom-menu {
+display: block;
+position: absolute;
+top: 0;
+right: 40px
+}
+}
+
+
+
+@media (max-width:767px) {
+.main-sidebar {
+-webkit-transform: translate(-230px, 0);
+-ms-transform: translate(-230px, 0);
+-o-transform: translate(-230px, 0);
+transform: translate(-230px, 0)
+}
+}
+
+@media (min-width:768px) {
+.sidebar-collapse .main-sidebar {
+-webkit-transform: translate(-230px, 0);
+-ms-transform: translate(-230px, 0);
+-o-transform: translate(-230px, 0);
+transform: translate(-230px, 0)
+}
+}
+
+@media (max-width:767px) {
+.sidebar-open .main-sidebar {
+-webkit-transform: translate(0, 0);
+-ms-transform: translate(0, 0);
+-o-transform: translate(0, 0);
+transform: translate(0, 0)
+}
+.set_photo {
+margin: -1px auto 0px;
+max-width: 33%;
+}
+
+}
+
+@media (max-width: 716px) {
+.nmobes input {
+width: 84%;
+}
+.navbar-default .navbar-nav > li > a {
+width: 150px;
+}
+}
+
+@media (max-width: 664px) {
+.nmobes input {
+width: 80%;
+}
+.navbar-default .navbar-nav > li > a {
+width: 129px;
+}
+.ahrefd li a {
+padding: 0px 25px;
+}
+}
+
+@media (max-width: 575px) {
+.largrtd,
+.talkds {
+display: none;
+}
+.ics_ght h4 {
+font-size: 11px!important;
+}
+.veyday h4 {
+line-height: 16px;
+font-size: 12px;
+}
+.first-dd h4 {
+line-height: 18px;
+font-size: 14px;
+}
+.talkds h4 {
+line-height: 20px;
+font-size: 13px;
+text-align: center;
+}
+.talkds {
+margin: 22px auto;
+}
+.first-dd {
+margin-top: 10px;
+}
+.fetueds {
+padding-top: 1px;
+margin-top: 0px;
+}
+}
+
+@media (max-width: 558px) {
+.ahrefd li a {
+padding: 0px 18px;
+}
+.nmobes input {
+width: 78%;
+}
+.navbar-default .navbar-nav > li > a {
+width: 100px;
+}
+.navbar-default .navbar-nav > li > a {
+width: 124px;
+}
+}
+
+@media (max-width: 511px) {
+.navbar-default .navbar-nav > li > a {
+width: 120px;
+}
+}
+
+@media (max-width: 510px) {
+.navbar-default .navbar-nav > li > a {
+width: 115px;
+}
+}
+
+@media (max-width: 485px) {
+.nmobes input {
+width: 75%;
+}
+}
+
+@media (max-width: 480px) {
+.navbar-default .navbar-nav > li > a {
+width: 114px;
+}
+}
+
+@media (max-width: 471px) {
+.navbar-default .navbar-nav > li > a {
+width: 110px;
+}
+}
+
+@media (max-width: 456px) {
+.navbar-default .navbar-nav > li > a {
+width: 105px;
+}
+}
+
+@media (max-width: 435px) {
+.navbar-default .navbar-nav > li > a {
+width: 101px;
+}
+}
+
+@media (max-width: 425px) {
+
+.conttabe .table {
+width: 450px !important;
+}
+.checouyt {
+padding: 25px 11px;
+font-size: 20px;
+}
+.anyquest ul li strong,
+.anyquest ul li {
+font-size: 17px;
+}
+.mainset-tap {
+margin-top: -80px;
+}
+.temmsir {
+float: right;
+margin-top: 37px;
+}
+.alltetare {
+padding: 8px 8px;
+}
+.small-text li a span {
+font-size: 11px;
+}
+.socialmhg,
+.socialmhg-2 {
+height: 140px;
+}
+.populd {
+padding: 11px 0px;
+}
+.servide h4 {
+font-size: 15px;
+}
+.left-soderr {
+float: none;
+width: 100%;
+}
+.right-soderr {
+float: none;
+width: 100%;
+}
+.navbar-default .navbar-nav > li > a {
+width: 140px;
+}
+.main-hairloss img {
+width: 80px;
+height: 60px;
+}
+.lefyr h3 {
+font-size: 15px;
+}
+.servheath ul li {
+left: 10%;
+}
+.nmobes input {
+width: 72%;
+}
+.inncova1 h4 {
+font-size: 15px;
+}
+.aswred {
+width: 100%;
+}
+.fullfect {
+padding-left: 6px;
+}
+.servheath ul {
+margin-bottom: 46px;
+border-bottom: none;
+margin-left: 54px;
+}
+.servheath ul li a {
+font-size: 20px;
+}
+.ics_ght {
+padding: 6px 3px;
+}
+.oluyd {
+float: none;
+margin-top: 5px;
+margin-right: 15px;
+}
+.askothdg ul li {
+padding: 2px 16px;
+}
+.first-dd {
+margin-top: 8px;
+}
+.first-dd h4 {
+line-height: 13px;
+font-size: 11px;
+}
+.talkds h4 {
+line-height: 18px;
+font-size: 11px;
+}
+.talkds h4 {
+line-height: 20px;
+font-size: 13px;
+text-align: center;
+}
+.telmess1 {
+float: none;
+margin-top: 60px;
+text-align: center;
+}
+.talkds {
+width: 100%;
+margin: 16px auto;
+}
+.patilove h2 {
+text-align: center;
+padding-bottom: 10px;
+font-weight: 600;
+font-size: 19px;
+}
+.sider-hedre .right .glyphicon {
+margin-right: -30px !important;
+}
+.sider-hedre .left .glyphicon {
+margin-left: -44px;
+}
+.fullfect p {
+color: #2B3246;
+text-align: center;
+font-size: 10px;
+}
+.mainlike b {
+font-size: 12px;
+}
+.mainconsut b {
+font-size: 12px;
+}
+.populd h3 {
+font-size: 15px;
+}
+.main-report b {
+font-size: 12px;
+}
+.mindt {
+float: none;
+}
+.nmobes .controls select {
+font-size: 11px;
+}
+.maindash {
+margin-top: 7px;
+}
+.lart li {
+font-size: 12px;
+margin: 4px 20px;
+}
+.jontoday ul li {
+font-size: 11px;
+padding: 2px 0px;
+}
+.footer-abut p {
+margin-top: 0px;
+line-height: 19px;
+font-size: 13px;
+}
+.orthop h4 {
+font-size: 13px;
+margin-top: 15px;
+text-align: center!important;
+}
+.chses h5 {
+font-size: 10px;
+padding-top: 8px;
+padding-left: 2px;
+}
+.vices_gridr {
+margin-top: 18px;
+padding-bottom: 14px;
+background-color: white;
+}
+.megg p {
+text-align: justify;
+}
+.ermidt li {
+padding: 2px 15px!important;
+}
+.ciledd ul li {
+padding: 2px 16px;
+}
+.patilove h2 {
+font-size: 16px;
+}
+.new-recend {
+font-size: 15px;
+font-weight: 600;
+}
+.ared h3 {
+font-size: 16px;
+}
+.askood ul li {
+padding: 3px 14px;
+}
+.getfour {
+margin-top: -17px;
+margin-bottom: 0px;
+}
+}
+
+@media (max-width: 375px) {
+.wrapper {
+margin-top: 55px;
+}
+.nmobes input {
+width: 69%;
+}
+.talkds h4 {
+line-height: 18.5px;
+font-size: 9px;
+}
+.talkds {
+margin: 0px auto;
+}
+.first-dd h4 {
+line-height: 12px;
+font-size: 11px;
+}
+.first-dd {
+margin-top: 6px;
+}
+}
+
+@media (max-width: 336px) {
+.nmobes input {
+width: 67%;
+}
+.navbar-default .navbar-nav > li > a {
+width: 126px;
+}
+}
+
+@media (max-width:767px) {
+.skin-blue .main-header .navbar .dropdown-menu li.divider {
+background-color: rgba(255, 255, 255, 0.1)
+}
+.skin-blue .main-header .navbar .dropdown-menu li a {
+color: #fff
+}
+.skin-blue .main-header .navbar .dropdown-menu li a:hover {
+background: #367fa9
+}
+.home_exptab .table-responsive {
+margin: 0px !important;
+}
+.expertdashboard {
+margin: 26px 1px;
+}
+.conttabe .table {
+margin-bottom: 24px;
+width: 766px;
+margin-top: 10px;
+}
+.cent_exp li {
+width: 30.6%;
+margin: 3px 4px;
+}
+.phome li {
+width: 44%;
+margin: 3px 4px;}
+.cent_exp li a {
+font-size: 14px !important;
+padding: 3px 0;
+text-align: center;
+background: #0000ff;
+color: #fff !important;
+}
+}

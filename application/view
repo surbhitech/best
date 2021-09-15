@@ -1,0 +1,583 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+    <meta charset="utf-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <meta name="description" content="">
+
+    <meta name="author" content="">
+
+    <link rel="shortcut icon" href="uploads/dezven-logo.png">
+
+    <title>tellme SIR</title>
+
+    <META NAME="" CONTENT=", ">
+
+    <link rel="stylesheet" href="assets/plugins/morris/morris.css">
+
+    <link href="assets/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+
+    <link href="assets/css/core.css" rel="stylesheet" type="text/css" />
+
+    <link href="assets/css/components.css" rel="stylesheet" type="text/css" />
+
+    <link href="assets/css/icons.css" rel="stylesheet" type="text/css" />
+
+    <link href="assets/css/pages.css" rel="stylesheet" type="text/css" />
+
+    <link href="assets/css/responsive.css" rel="stylesheet" type="text/css" />
+
+    <link href="assets/plugins/datatables/jquery.dataTables.min.css" rel="stylesheet" type="text/css" />
+
+    <link href="assets/plugins/select2/select2.css" rel="stylesheet" type="text/css" />
+
+    <link href="assets/plugins/timepicker/bootstrap-timepicker.min.css" rel="stylesheet">
+
+    <link href="assets/plugins/mjolnic-bootstrap-colorpicker/dist/css/bootstrap-colorpicker.min.css" rel="stylesheet">
+
+    <link href="assets/plugins/bootstrap-datepicker/dist/css/bootstrap-datepicker.min.css" rel="stylesheet">
+
+    <link href="assets/plugins/clockpicker/dist/jquery-clockpicker.min.css" rel="stylesheet">
+
+    <link href="assets/plugins/bootstrap-daterangepicker/daterangepicker.css" rel="stylesheet">
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet">
+
+    <script src="assets/js/modernizr.min.js"></script>
+
+    <script type="text/javascript">
+        function del(url)
+
+        {
+
+            if (confirm('Really want to delete this.'))
+
+            {
+
+                window.location = url;
+
+            }
+
+        }
+    </script>
+
+    <style>
+        .alert-error {
+            color: #a94442;
+            background-color: #f2dede;
+            border-color: #ebccd1;
+        }
+    </style>
+</head>
+
+<body class="fixed-left">
+
+    <div id="wrapper">
+
+       <div class="topbar">
+
+            <div class="topbar-left">
+
+                <div class="text-center">
+                    <p style="    color: #880015;">tellme SIR </p>
+
+                </div> 
+
+            </div>
+
+            <div class="navbar navbar-default" role="navigation">
+
+                <div class="container">
+
+
+                        <div class="pull-left">
+
+                            <button class="button-menu-mobile open-left">
+
+                                <i class="fa fa-bars"></i>
+
+                            </button>
+
+                            <span class="clearfix"></span>
+
+                        </div>
+
+                 
+                        <span class="typess"  >(Spiritual) Abhishek Pachauri </span>
+
+                        <ul class="nav navbar-nav navbar-right pull-right">
+
+                         <li >
+     <div class="text-center">
+                    <p class="webname">tellme SIR Subadmin</p>
+
+                </div>                        
+</li>
+                            <li class="dropdown">
+
+                                <a class="dropdown-toggle profile" data-toggle="dropdown" aria-expanded="true">
+                                    <img src="../uploads/guru2.jpg" alt="user-img" class="" style="height:50px!important; width:50px;">
+
+                                </a>
+
+                                <ul class="dropdown-menu">
+
+                                   <li><a href="logout.html"><i class="ti-power-off m-r-5"></i> Logout</a></li>
+                                </ul>
+                            </li>
+                        </ul>
+                    
+                </div>
+            </div>
+        </div>
+        <div class="left side-menu">
+
+            <div class="sidebar-inner slimscrollleft">
+
+                <div id="sidebar-menu">
+
+                    
+                    <ul class="side-nav">
+
+                        <li class=""><a href="dashboard.html" class="waves-effect "><i class="fa fa-home"></i> <span> Dashboard </span> </a> </li>
+
+                        <li class=""><a href="tell_sub_category.html" class="waves-effect "><i class="fa fa-cog"></i> <span>sub category </span> </a> </li>
+
+                        <li class=""><a href="expertdetail.html" class="waves-effect "><i class="fa fa-user"></i> <span>Expert's Detail</span> </a> </li>
+
+                        <!--- <li class=""><a href="ticket_detail.html" class="waves-effect "><i class="fa fa-bar-chart"></i> <span>Tickets Detail</span> </a> </li>
+                        --->
+                    </ul>
+
+                    <div class="clearfix"></div>
+
+                </div>
+
+                <div class="clearfix"></div>
+
+            </div>
+
+        </div>
+         <div class="content-page">
+
+		<!-- Start content -->
+
+		<div class="content">
+
+			<div class="container">
+
+				<!-- Page-Title -->
+
+				<div class="row">
+
+					<div class="col-sm-12">
+
+						<h4 class="page-title">Sub Category	>	Edit</h4>
+
+
+					</div>
+
+				</div>
+
+				<!-- Basic Form Wizard -->
+
+				<div class="row">
+
+					<div class="col-md-12">
+
+						<div class="card-box aplhanewclass">
+
+							<div class="row">
+
+								<div class="col-md-9"> </div>
+
+								<div class="col-md-3"> <a href="tell_sub_category-addrecord.html?action=add" class="btn btn-default" style="float:right">Add New Record</a> </div>
+
+							</div>
+
+						</div>
+
+						<div class="card-box">
+
+							<form role="form" action="" method="post" enctype="multipart/form-data">
+
+								<div>
+
+									<section>
+
+										
+                                        <div class="form-group clearfix mysidetext">
+                                            <label class="col-lg-1 control-label " for="userName">Title :</label>
+                                            Category	>	Sub Category </div>
+                                   
+										<div class="form-group clearfix">
+										
+											<label class="col-lg-1  ">Text </label>
+											<label class="col-lg-1 control-label pricees" for="userName"> Price:</label>
+											<div class="col-lg-1">
+												<input type="text" class="form-control required	pricees" id="userName" name="text_price" value="">
+											</div>
+											
+											<label class="col-lg-1 control-label pricees" for="userName"> Duration</label>
+											<div class="col-lg-2">
+												<input type="text" class="form-control required	pricees" id="userName" name="text_duration" value="">
+											</div>
+										</div>
+
+										
+
+										<div class="form-group clearfix">
+										<div class="calltime">
+										   <label class="col-lg-1  ">Call </label>
+											<label class="col-lg-1 control-label " for="userName"> Price:</label>
+											<div class="col-lg-1">
+												<input type="text" class="form-control required" id="userName" name="call_price" value="">
+											</div>
+											
+											<label class="col-lg-1 control-label " for="userName"> Duration</label>
+											<div class="col-lg-2">
+												<input type="text" class="form-control required" id="userName" name="call_duration" value="">
+											</div>
+											</div>
+											
+									<div class="calltime2">
+									<span>Pack Price 	<input type="text" class=" " id="userName" name="call_price" value="">No.	of	calls	<input type="text" class="" id="userName" name="call_price" value="">
+									Days Valid 	<input type="text" class=" " id="userName" name="call_price" value="">Duration	<input type="text" class="" id="userName" name="call_price" value="">
+									</span>
+									</div>
+								
+									
+										
+										</div>
+
+										
+
+										<div class="form-group	 clearfix">
+										<label class="col-lg-1  ">Video </label>
+											<label class="col-lg-1 control-label " for="userName"> Price:</label>
+											<div class="col-lg-1">
+												<input type="text" class="form-control required" id="userName" name="video_price" value="">
+											</div>
+											
+											<label class="col-lg-1 control-label " for="userName"> Duration</label>
+											<div class="col-lg-2">
+												<input type="text" class="form-control required" id="userName" name="video_duration" value="">
+											</div>
+											<div class="calltime2">
+									<span>Pack Price 	<input type="text" class=" " id="userName" name="call_price" value="">No.	of	calls	<input type="text" class="" id="userName" name="call_price" value="">
+									Days Valid 	<input type="text" class=" " id="userName" name="call_price" value="">Duration	<input type="text" class="" id="userName" name="call_price" value="">
+									</span>
+									</div>
+										</div>
+
+<hr>
+									   <div class="form-group	 clearfix">
+										<div class="col-lg-2"></div><label class="col-lg-10 control-label ckedted" for="userName">Who	are	category	-	subcategory	consultants ? </label>
+										<div class="col-lg-2"></div>
+										<div class="col-lg-10">
+										  <textarea class="form-control required ckeditor" name="howitwork" ></textarea>
+										</div>
+									  </div>
+									  
+
+									  <div class="form-group clearfix">
+										<div class="col-lg-2"></div><label class="col-lg-10 control-label ckedted" for="userName">Topics	often discussed with category subcategory consultants</label>
+										<div class="col-lg-2"></div>
+										<div class="col-lg-10">
+										  <textarea class="form-control required ckeditor" name="under_orpathic" ></textarea>
+										</div>
+									  </div>	
+		   
+
+										<div class="form-group clearfix">
+											<label class="col-lg-2 control-label " for="confirm">Status </label>
+											<div class="col-lg-10">
+												<select class="required form-control" name="status">
+													<option value="1" selected>Approved</option>
+													<option value="0">Not Approved</option>
+												</select>
+											</div>
+										</div>
+
+										<button type="submit" name="update" class="btn btn-default">Submit</button>
+
+										<a href="tell_sub_category.html" class="btn btn-default">Back</a> </section>
+
+								</div>
+
+							</form>
+
+						</div>
+
+					</div>
+
+				</div>
+
+			</div>
+
+		</div>
+
+		<footer class="footer"> </footer>
+	</div>
+
+</div>
+
+<script>
+	var resizefunc = [];
+</script>
+
+
+<script src="assets/js/jquery.min.js"></script>
+
+<script src="assets/js/bootstrap.min.js"></script>
+
+<script src="assets/js/detect.js"></script>
+
+<script src="assets/js/fastclick.js"></script>
+
+<script src="assets/js/jquery.slimscroll.js"></script>
+
+<script src="assets/js/jquery.blockUI.js"></script>
+
+<script src="assets/js/waves.js"></script>
+
+<script src="assets/js/wow.min.js"></script>
+
+<script src="assets/js/jquery.nicescroll.js"></script>
+
+<script src="assets/js/jquery.scrollTo.min.js"></script>
+
+<script src="assets/plugins/peity/jquery.peity.min.js"></script>
+
+<script src="assets/plugins/waypoints/lib/jquery.waypoints.js"></script>
+
+<script src="assets/plugins/counterup/jquery.counterup.min.js"></script>
+
+<script src="assets/plugins/morris/morris.min.js"></script>
+
+<script src="assets/plugins/raphael/raphael-min.js"></script>
+
+<script src="assets/plugins/jquery-knob/jquery.knob.js"></script>
+
+<script src="assets/pages/jquery.dashboard.js"></script>
+
+<script src="assets/js/jquery.core.js"></script>
+
+<script src="assets/js/jquery.app.js"></script>
+
+<script src="assets/plugins/datatables/jquery.dataTables.min.js"></script>
+
+<script src="assets/plugins/datatables/dataTables.bootstrap.js"></script>
+
+<script type="text/javascript" src="assets/plugins/multiselect/js/jquery.multi-select.js"></script>
+
+<script src="assets/plugins/select2/select2.min.js" type="text/javascript"></script>
+
+<script src="assets/plugins/timepicker/bootstrap-timepicker.min.js"></script>
+
+<script src="assets/plugins/bootstrap-datepicker/dist/js/bootstrap-datepicker.min.js"></script>
+
+<script src="assets/plugins/bootstrap-daterangepicker/daterangepicker.js"></script>
+
+<script type="text/javascript" src="assets/ckeditor/ckeditor.js"></script>
+
+<script type="text/javascript">
+	$(document).ready(function() {
+
+		$('#datatable').dataTable();
+
+	});
+</script>
+
+<script type="text/javascript">
+	jQuery(document).ready(function($) {
+
+		$('.counter').counterUp({
+
+			delay: 100,
+
+			time: 1200
+
+		});
+
+		$(".knob").knob();
+
+	});
+</script>
+
+<script>
+	jQuery(document).ready(function() {
+
+		jQuery('#timepicker').timepicker({
+
+			defaultTIme: false
+
+		});
+
+		jQuery('#timepicker2').timepicker({
+
+			showMeridian: false
+
+		});
+
+		jQuery('#timepicker3').timepicker({
+
+			minuteStep: 15
+
+		});
+
+		jQuery('.datepicker').datepicker();
+
+		jQuery('#datepicker-autoclose').datepicker({
+
+			autoclose: true,
+
+			todayHighlight: true
+
+		});
+
+		jQuery('#datepicker-autoclose1').datepicker({
+
+			autoclose: true,
+
+			todayHighlight: true
+
+		});
+
+		jQuery('#datepicker-inline').datepicker();
+
+		jQuery('#datepicker-multiple-date').datepicker({
+
+			format: "yyyy-mm-dd",
+
+			clearBtn: true,
+
+			multidate: true,
+
+			multidateSeparator: ","
+
+		});
+
+		jQuery('.date-range').datepicker({
+
+			toggleActive: true
+
+		});
+
+		$('#check-minutes').click(function(e) {
+
+			e.stopPropagation();
+
+			$("#single-input").clockpicker('show')
+
+			.clockpicker('toggleView', 'minutes');
+
+		});
+
+	});
+</script>
+
+<script>
+	jQuery(document).ready(function() {
+
+		$('#my_multi_select3').multiSelect({
+
+			selectableHeader: "<input type='text' class='form-control search-input' autocomplete='off' placeholder='search...'>",
+
+			selectionHeader: "<input type='text' class='form-control search-input' autocomplete='off' placeholder='search...'>",
+
+			afterInit: function(ms) {
+
+				var that = this,
+
+					$selectableSearch = that.$selectableUl.prev(),
+
+					$selectionSearch = that.$selectionUl.prev(),
+
+					selectableSearchString = '#' + that.$container.attr('id') + ' .ms-elem-selectable:not(.ms-selected)',
+
+					selectionSearchString = '#' + that.$container.attr('id') + ' .ms-elem-selection.ms-selected';
+
+				that.qs1 = $selectableSearch.quicksearch(selectableSearchString)
+
+				.on('keydown', function(e) {
+
+					if (e.which === 40) {
+
+						that.$selectableUl.focus();
+
+						return false;
+
+					}
+
+				});
+
+				that.qs2 = $selectionSearch.quicksearch(selectionSearchString)
+
+				.on('keydown', function(e) {
+
+					if (e.which == 40) {
+
+						that.$selectionUl.focus();
+
+						return false;
+
+					}
+
+				});
+
+			},
+
+			afterSelect: function() {
+
+				this.qs1.cache();
+
+				this.qs2.cache();
+
+			},
+
+			afterDeselect: function() {
+
+				this.qs1.cache();
+
+				this.qs2.cache();
+
+			}
+
+		});
+
+		$(".select2").select2();
+
+		$(".select2-limiting").select2({
+
+			maximumSelectionLength: 2
+
+		});
+
+	});
+</script>
+<script>
+	function attendengName() {
+		//alert(jobpositn);	
+		var attend_expert = document.getElementById("attendingExpertId").value;
+		//alert(jobposn);	
+		$.post("ajax.html", {
+				"action": "get_AttendExpert",
+				attend_expert: attend_expert,
+
+			},
+			function(data) {
+				//alert(data);	
+				$("#getExpertId").html(data);
+
+			});
+	}
+</script>
+
+</body>
+
+</html>

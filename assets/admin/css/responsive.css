@@ -1,0 +1,262 @@
+@media only screen and (max-width: 6000px) and (min-width: 700px) {
+    .wrapper.right-bar-enabled .right-bar {
+        right: 0;
+        z-index: 99;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+    .email-msg {
+        display: none;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+    body {
+        overflow-x: hidden;
+    }
+}
+
+@media (max-width: 1290px) {
+	.calltime2 input {
+    width: 4%;
+    margin: 1px 2px;
+}
+}
+@media (max-width: 1230px) {
+	.calltime{    overflow: hidden;}
+	.calltime2{     padding: 15px 12px 1px;}
+	
+}
+@media (max-width: 1200px) {
+	.calltime2 input {
+    width: 6%;
+    margin: 1px 4px;
+}
+}
+@media (max-width: 991px) {
+	.calltime label,.mysidetext2 label{ position: relative;
+    top: 9px;   font-size: 13px;
+}
+
+	.striped_tavi{
+    overflow-x: scroll;
+}
+.striped_tavi {
+padding: 6px;}
+
+}
+@media (max-width: 767px) {
+	.expert-fot .form-group {font-size:12px;}
+	.expert-fot {    padding: 7px;}
+	.expert-fot label{    padding-left: 0px}
+	.myvekar2 {
+   padding: 4px;
+    margin: 12px 4px 0px 10px;  
+}
+.striped_tavi1{ padding: 6px;}
+.admin_head img{ width: 100%;}
+.pack{      position: relative;
+    top: 8px;  width: 50%;
+    float: left;}
+.calltime2 input {
+    width: 44%;
+    margin: 1px 4px;
+}
+.mysidetext2 input,.calltime input{    margin-bottom: 8px;}
+.admin_head label{    font-size: 13px;}
+.expert_width .table-responsive {
+    width: 825px;
+}
+	.myvekar2 h2{    font-size: 18px;
+    text-align: center;}
+#wrapper.enlarged .content-page {
+    margin-left: 59px;
+}	
+.striped_tavi .table-responsive{}
+.striped_tavi .table-responsive tr td{    font-size: 12px;}
+.striped_tavi .table-responsive tr th{    font-size: 12px;
+}
+	.card-box .btn-default {
+    margin: 0 4px 0 18px;
+    float: none !important;
+    text-align: center;
+}
+	.webname {
+   
+    font-weight: 500;
+    font-size: 10px;
+
+}
+.admintime{font-size: 18px !important;}
+.content-page > .content {
+    padding: 20px 0px 15px 0px;
+}
+
+.striped_tavi input{width: 68%;}
+.striped_tavi label{    font-size: 14px;}
+.nav > li > a {
+    padding: 0px 5px;
+   
+}
+
+.typess {
+    position: relative;
+    top: 9px;
+    font-size: 11px;
+}
+.button-menu-mobile {
+   display: none;
+    font-size: 15px;
+    line-height: 45px;
+    padding: 0px 8px;
+}
+.profile img{    height: 30px!important;
+    width: 30px!important;}
+    body {
+        overflow-x: hidden;
+    }
+    .mobile-sidebar {
+        left: 0px;
+    }
+    .mobile-content {
+        left: 250px;
+        right: -250px;
+    }
+    .wrapper-page {
+        width: 90%;
+    }
+    .wizard > .steps > ul > li {
+        width: 100%;
+    }
+    .wizard > .content {
+        padding: 0px !important;
+    }
+    .wizard > .content > .body {
+        float: none;
+        position: relative;
+        width: 100%;
+        height: 100%;
+        padding: 0%;
+    }
+    .wizard.vertical > .steps {
+        display: inline;
+        float: none;
+        width: 100%;
+    }
+    .wizard.vertical > .content {
+        display: inline;
+        float: none;
+        margin: 0%;
+        width: 100%;
+    }
+    .navbar-nav .open .dropdown-menu {
+        background-color: #ffffff;
+        box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.26);
+        left: auto;
+        position: absolute;
+        right: 0;
+    }
+    .todo-send {
+        margin-top: 10px;
+        padding-left: 15px;
+    }
+    .chat-inputbar {
+        padding-left: 15px;
+    }
+    .chat-send {
+        margin-top: 10px;
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    .dataTables_wrapper .col-xs-6 {
+        width: 100%;
+        text-align: left;
+    }
+}
+
+@media (max-width: 480px) {
+	.admin_head{    padding-right: 3px;}
+	#wrapper.enlarged .content-page {
+    margin-left: 25px;
+}
+	#wrapper.enlarged .left.side-menu #sidebar-menu > ul > li > a {
+    padding: 15px 2px;
+}
+#wrapper.enlarged .left.side-menu {
+    width: 35px;
+    z-index: 5;
+}
+    .side-menu {
+        z-index: 10 !important;
+    }
+   
+    .search-bar {
+        display: none !important;
+    }
+	
+	.aplhanewclass{}
+}
+
+@media (max-width: 420px) {
+    .hide-phone {
+        display: none !important;
+    }
+	.admin_head img {
+    width: 51px;
+}
+.admin_top .nav > li > a {
+    line-height: 57px;
+    font-size: 12px;
+}
+.admintime{font-size: 13px !important;margin: 18px auto;}
+.admin_top .nav > li > a i {
+    font-size: 12px;
+}
+.admin_top .dropdown{display: none !important;}
+#wrapper.enlarged .left.side-menu #sidebar-menu ul > li > a span {
+    display: block;
+    padding-left: 0px;
+    font-size: 4px;
+    margin-top: 4px;
+}
+.admin_head label{padding-left: 0px;}
+}
+
+
+/* Container-alt */
+
+@media (min-width: 768px) {
+    .container-alt {
+        width: 750px;
+    }
+}
+
+@media (min-width: 992px) {
+    .container-alt {
+        width: 970px;
+    }
+}
+
+@media (min-width: 1200px) {
+    .container-alt {
+        width: 1170px;
+    }
+}
+@media (min-width: 320px) {
+    .navbar-nav>li {
+    float: left;
+}
+}
+
+@media (max-width: 419px) {
+    .topbar-left {
+        width: 70px !important;
+    }
+    .logo .icon-c-logo {
+        display: inline-block !important;
+    }
+    .logo span {
+        display: none !important;
+    }
+}

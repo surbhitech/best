@@ -1,0 +1,1080 @@
+@media (max-width: 1200px) {
+.wrapper {
+overflow: hidden;
+}
+.movilephoe input {
+width: 191px;
+font-size: 15px;
+}
+.set-date input,
+.set-date textarea,
+.set-date select {
+width: 31%;
+}
+.mysub_lag .goog-te-gadget .goog-te-combo {
+width: 12%;
+
+}
+}
+
+@media (max-width: 1100px) {
+.conttabe .table {
+width: 825px;
+}
+.setfomemd label,
+.hightyu0 label,
+.bigfh label,
+.commrts label,
+.upload2 label,
+.efef label {
+font-size: 13px;
+}
+.categors h3 {
+font-size: 14px;
+}
+}
+
+@media (max-width: 1066px) {
+.movilephoe input {
+width: 163px;
+font-size: 15px;
+}
+}
+
+@media (max-width: 991px) {
+	.gryany{    display: none;
+}
+.my_dashopt {
+padding: 0px;
+}
+.send_for button {
+background: #004a6f;
+color: #fff;
+margin-bottom: 11px;
+font-size: 12px;
+}
+.foot_sumbmit{    background: #fff;}
+.setfomemd .expertsadd1 {
+padding: 0px 0 10px;
+}
+.totalcases{    margin-top: 5px;
+}
+#Category_Name {
+
+width: 50%;
+
+font-size: 11px;
+}
+.subvttd button, .btn-info {    
+width: 50%; 
+}
+.expertsadd1 p {
+font-size: 14px;    
+}
+.btn {
+padding: 6px 7px;
+margin-bottom: 0;
+margin-top: 5px;
+font-size: 9px;
+}
+.setfomemd .after-add-more1 input{    margin-bottom: 6px !important;}
+.setfomemd .btn_new {   
+padding: 6px 5px;
+font-size: 7px;
+margin-top: 5px;
+}
+.setfomemd .mydate{ margin-bottom: 10px;}
+.setfomemd .sumbbut button {
+font-size: 15px!important;
+
+
+}
+.setfomemd .userdashboard .topbot {
+font-size: 13px;
+}
+.setfomemd .goo_or span {
+display: none;
+}
+.setfomemd .movilephoe {
+margin-bottom: 7px;
+}
+.userdashboard .tell_tavle p {
+font-size: 14px;
+}
+.set-date {
+margin-bottom: 9px;
+}
+.feesphoe {
+margin-top: 8px;
+}
+.urgley0 {
+text-align: left;
+}
+.navbar-collapse.pull-left {
+float: none !important
+}
+.navbar-collapse.pull-left+.navbar-custom-menu {
+display: block;
+position: absolute;
+top: 0;
+right: 40px
+}
+.mtexop {
+display: block;
+}
+.table-responsive {
+display: block;
+overflow-x: auto;
+white-space: nowrap;
+border: none;
+}
+.jontoday ul li {
+padding: 4px 0px;
+}
+.rventer,
+.wfeat {
+height: 374px;
+}
+.lart li {
+font-size: 12px;
+margin: 1px 19px;
+}
+.patilove ul li {
+padding: 0px 2px;
+font-size: 11px;
+}
+.fer-abutd {
+text-align: justify;
+}
+.fer-abutd ul li a {
+font-size: 11px;
+}
+.fer-abutd h4 {
+font-size: 15px;
+}
+.foot-logo img {
+width: 86%;
+}
+.nmobes input {
+width: 58%;
+}
+.sanhjay {
+float: none;
+}
+.fullfect P {
+font-size: 10px;
+text-align: center;
+}
+.left-soderr p,
+.right-soderr p {
+font-size: 11px;
+}
+.main-report b {
+font-size: 9px;
+}
+.short-lines,
+.full-lines {
+display: none;
+}
+.aswred {
+width: 154px;
+}
+.mindt {
+float: none;
+}
+.ics_ght h4 {
+font-size: 19px!important;
+}
+.veyday h4 {
+line-height: 31px;
+font-size: 15px;
+}
+.first-dd {
+margin-top: 22px;
+width: 100%;
+}
+.first-dd h4 {
+line-height: 20px;
+font-size: 17px;
+}
+.talkds {
+width: 100%;
+margin: 160px auto;
+}
+
+
+.small-text li a span {
+font-size: 8px;
+}
+.totalcase{margin-top:7px;}
+}
+
+@media (min-width:768px) {
+.sidebar-collapse .main-sidebar {
+-webkit-transform: translate(-230px, 0);
+-ms-transform: translate(-230px, 0);
+-o-transform: translate(-230px, 0);
+transform: translate(-230px, 0)
+}
+}
+
+@media (max-width: 767px) {
+	.council_expert .council1 input{    width: 100% !important;}
+	.mystotal small{display:block;font-size: 11px !important;}
+	.settabs .nav-tabs {
+    border-bottom: none;
+    margin-top: 5px;
+}
+.skin-blue .main-header .navbar {
+background: none;
+}
+.main-header .navbar {
+min-height: 0px;
+border-radius: 0;
+}
+.expertsadd1	input{     margin-bottom: 3px !important;
+margin-top: 1px;
+}
+.expertsadd1   .subvttd button, .expertsadd1   .btn-info {
+margin-top: 5px;
+width: 20%;
+margin-bottom: 2px;
+}
+.mtexop  .expertsadd1 p {
+font-size: 12px;
+padding: 0 0px 8px 6px;
+}
+.mtexop  .set-date input,
+.mtexop  .set-date textarea,
+.mtexop  .set-date select {
+width: 31%;
+}
+.mtexop  .sumitadmin {
+width: 60%;
+margin-left: 4px;
+}
+.mtexop  .upload2 input[type=checkbox],
+.mtexop  .upload2 input[type=radio] {
+top: -1px;
+}
+.mytabb li {
+width: 32%!important;
+margin: 3px 2px!important;
+}
+.finders .checkbox-inline+.checkbox-inline,
+.finders .radio-inline+.radio-inline {
+margin-top: 0;
+margin-left: 0px;
+}
+.file_after i {
+margin-top: 0px;
+}
+.movilephoe input {
+width: 179px!important;
+}
+.movilephoe {
+margin-bottom: 7px;
+}
+.mtexop  .categors h3 {
+   font-size: 13px;
+margin-top: 0px;
+margin-bottom: 0px;
+line-height: 18px;
+
+}
+.mtexop  .gernal {
+padding: 1px 12px 0px;
+}
+.mtexop  .gernal label {
+font-size: 15px!important;
+margin-bottom: 2px;
+}
+.mtexop .full_profile {
+padding-top: 7px;
+}
+.hightyu0 {
+margin-top: 0px;
+}
+.mtexop .set_photo {
+margin: 1px auto 0px;
+max-width: 33%;
+}
+.panel-heading span {
+   margin-left: 5px;
+font-size: 7px!important;
+}
+.gtitle{ font-size: 5px!important;}
+.settabs .set_details1 li a {
+font-size: 9px !important;
+}
+.fessacter .myfeeses {
+font-size: 18px !important;
+}
+.settabs .set_essetial li {
+width: 49.2%!important;
+margin: 3px 0px!important;
+}
+.setfomemd	.cent_exp li {
+width: 49.5%;
+margin: 1px 0px;
+}
+.set_details1 li {
+width: 33%!important;
+margin: 3px 0px !important;
+}
+.userdashboard {
+margin: 10px 0px;
+
+}
+.mtexop  .expertdash_ad {
+padding-left: 0px;
+padding-right: 0px;
+
+}
+.exp_home1 p {
+max-width: 100%;
+margin: 1px;
+}
+.expertdash_ad .set_details1 {
+margin-top: 4px!important;
+}
+.userdashboard .tell_tavle p {
+font-size: 14px;
+padding: 4px;
+line-height: normal;
+}
+.userdashboard .topbot {
+font-size: 13px;
+margin: 8px 3px;
+height: 25px;
+font-family: 'Roboto', sans-serif;
+}
+.userdashboard .tell_tavle {
+height: 41px;
+}
+.userdashboard .tell_tavle a {
+font-size: 12px;
+top: 0px;
+}
+.userdashboard .settop1,
+.userdashboard .settop {
+padding: 0px;
+}
+.setfomemd .persl_or span {
+     left: 46%;
+    top: 12em;
+}
+.mobile_fees i {
+
+display: none;
+}
+.setfomemd .academic_exp,
+.setfomemd .refer_toother {
+margin: 6px 0px 0px 0px;
+}
+.expertsadd1 .panel-body {
+padding: 0px!important;
+}
+.setfomemd .goo_or span {
+display: none;
+}
+.basic_detl h3 {
+font-size: 14px;
+line-height: 8px;
+padding-top: 0px;
+
+}
+.mybro {
+padding-top: 11px;
+}
+.onguxc {
+padding: 0 4px;
+}
+.mtexop .form-control {
+font-size: 14px!important;
+}
+.artuupad {
+padding: 4px 6px;
+}
+.sumbbut a {
+width: 80%;
+}
+.basic_detl {
+padding-top: 0px;
+}
+.subamin {
+display: none;
+}
+.expert_setpanel .accordion-toggle {
+	 font-size: 12px;
+text-transform: uppercase;
+font-weight: 600;
+
+}
+.treeview-menu>li>a {
+padding: 0px 1px 6px 7px !important;
+font-size: 14px !important;
+}
+.skin-blue .sidebar a {
+font-size: 15px;
+padding: 8px 6px 0px;
+}
+.setfomemd label,
+.hightyu0 label,
+.bigfh label,
+.commrts label,
+.upload2 label,
+.efef label {
+font-size: 12px!important;
+
+}
+.setfomemd	.cent_exp>li.active>a,
+.setfomemd	.cent_exp>li.active>a:focus,
+.setfomemd	.cent_exp>li.active>a:hover {
+border-bottom: none !important;
+background-color: #ff6a05  !important;
+color: #fff !important;
+}
+.setfomemd	.cent_exp li a {
+color: #fff !important;
+font-size: 14px ;
+background: #004a6f;
+}
+.setfomemd	.sumbbut input {
+width: 60%;
+}
+.setfomemd	.basic_detl {
+padding-top: 10px;
+}
+.setfomemd	.catgiu {
+padding: 0px 6px 15px;
+font-size: 16px;
+line-height: 20px;
+text-align: center;
+}
+.treeview-menu>li {
+margin: 0;
+padding: 0px;
+}
+.sidebar-menu li>a>.pull-right-container {
+margin-top: -6px;
+}
+.expert_setpanel .panel-default>.panel-heading {
+padding: 10px 16px;
+}
+.expert_setpanel .panel-body {
+padding: 4px 0px;
+}
+.mtexop  #Category_Name {
+float: left;
+width: 100%;
+font-size: 12px;
+}
+.mobile_fees {
+	width: 100%;
+
+}
+.sumbbut {
+width: auto;
+margin: 0px 17px;
+text-align: left;
+}
+.set_photo input {
+padding: 5px 31px;
+height: 40px;
+}
+.expert_setpanel {
+display: block!important;
+position: absolute;
+z-index: 9;
+background: #FF6A05;
+width: 100%;
+top: 0px;
+}
+
+.mtexop  .diff_mode {
+font-size: 12px;
+margin: 4px 0 9px 0;
+
+}
+.mtexop  .texttype strong {
+font-size: 11px;
+
+}
+.mtexop  .diff_mode span {
+    font-size: 10px;
+}
+.mtexop  #selected_subcategory input[type="checkbox"] {
+
+    position: relative;
+    top: 3px;
+}
+.mtexop  .user_termad input[type=checkbox], .user_termad input[type=radio] {
+    margin: 2px -20px 0;
+   
+}
+.mtexop  .user_termad a{text-transform:capitalize;}
+.council_expert .mobile_fees input{width: 62%;}
+.myinput {
+width: 35%;
+text-align: center;
+margin: 4px auto 12px!important;
+}
+.mtexop  .gernal .form-control {
+width: 80%;
+margin: 4px 2px;
+font-size: 14px !important;
+}
+.setfomemd .form-group {
+margin-bottom: 5px;
+}
+.mtexop  .compulsory {
+font-size: 12px;
+
+}
+.mydate{     margin: 0px 0px 9px;
+}
+
+.basic_detl p {
+margin-top: 10px;
+font-size: 13px;
+}
+.disk_side {
+display: none;
+}
+.skin-blue .main-header .navbar .sidebar-toggle {
+display: none;
+}
+.expertdashboard {
+margin: 26px 6px;
+}
+.wrapper {
+	margin-top: 16px!important;
+}
+.dash-head {
+padding: 0px 0px 25px 0;
+}
+
+.main-header .logo,
+.main-header .navbar {
+width: 100%;
+float: none
+}
+.home_exptab .table-responsive {
+margin: 0px;
+}
+.skin-blue .main-header .navbar {
+    min-height: 4px !important;
+}
+.main-header .navbar-custom-menu {
+float: right
+}
+.main-sidebar {
+-webkit-transform: translate(-230px, 0);
+-ms-transform: translate(-230px, 0);
+-o-transform: translate(-230px, 0);
+transform: translate(-230px, 0);
+padding-top: 10px;
+top: 54px;
+width: auto!important;
+}
+.sidebar-open .main-sidebar {
+-webkit-transform: translate(0, 0);
+-ms-transform: translate(0, 0);
+-o-transform: translate(0, 0);
+transform: translate(0, 0)
+}
+.sidebar-toggle {
+display: block;
+}
+.anyquest {
+padding: 0 10px;
+}
+.anyquest ul li strong,
+.anyquest ul li {
+font-size: 15px;
+}
+.avtydr h3,
+.spciaal h4 {
+font-size: 15px;
+}
+.myopend {
+padding: 9px 9px;
+font-size: 17px;
+}
+.mtexop {
+margin: 0px!important;
+padding: 0px 8px;
+}
+.populd h3 {
+padding-bottom: 9px;
+}
+.sider-hedre {
+margin-top: 0px;
+}
+.servide p {
+height: 150px;
+margin-top: 0px;
+}
+.servide {
+margin-top: -10px;
+}
+.orthop .form-control {
+height: 270px!important;
+font-size: 13px;
+}
+.foot-logo img {
+width: 40%;
+}
+.bord-line {
+padding: 1px 0;
+}
+.navbar-default .navbar-nav > li > a {
+width: 159px;
+}
+.navbar-nav {
+margin: 10px 0;
+}
+.ics_ght h4 {
+font-size: 15px!important;
+}
+.veyday {
+padding: 0px 10px;
+margin-top: 20px;
+max-width: 100%;
+}
+.talkds {
+margin: 65px auto;
+}
+.veyday h4 {
+line-height: 22px;
+font-size: 13px;
+}
+.talkds h4 {
+line-height: 20px;
+font-size: 18px;
+}
+.ret-fted {
+padding: 2px 7px;
+}
+.container {
+overflow: hidden;
+}
+.wfeat,
+.rventer,
+.ret-fted {
+height: auto;
+}
+.featight {
+padding-bottom: 0px;
+height: auto;
+}
+.short-lines,
+.full-lines {
+display: none;
+}
+.servheath ul li {
+left: 40%;
+}
+.patilove ul li {
+padding: 0px 25px;
+font-size: 13px;
+}
+.servheath ul li a {
+font-size: 25px;
+}
+.servheath ul {
+margin-right: 14px;
+margin-left: 14px;
+}
+.nmobes input {
+width: 86%;
+}
+.user_dash .content-wrapper {
+    border-right: 0px solid #004a6f!important;
+}
+.user_dash .exp_home1 p {
+    font-size: 15px;
+    padding: 5px;
+    max-width: 98%;
+    margin-top: 6px;
+}
+}
+
+@media (max-width: 716px) {
+.nmobes input {
+width: 84%;
+}
+.navbar-default .navbar-nav > li > a {
+width: 150px;
+}
+}
+
+@media (max-width: 664px) {
+.nmobes input {
+width: 80%;
+}
+.navbar-default .navbar-nav > li > a {
+width: 129px;
+}
+.ahrefd li a {
+padding: 0px 25px;
+}
+}
+
+@media (max-width: 575px) {
+.largrtd,
+.talkds {
+display: none;
+}
+.ics_ght h4 {
+font-size: 11px!important;
+}
+.first-dd h4 {
+line-height: 18px;
+font-size: 14px;
+}
+.talkds h4 {
+line-height: 20px;
+font-size: 13px;
+text-align: center;
+}
+.talkds {
+margin: 22px auto;
+}
+.first-dd {
+margin-top: 10px;
+}
+.fetueds {
+padding-top: 1px;
+margin-top: 0px;
+}
+}
+
+@media (max-width: 558px) {
+.ahrefd li a {
+padding: 0px 18px;
+}
+.nmobes input {
+width: 78%;
+}
+.navbar-default .navbar-nav > li > a {
+width: 100px;
+}
+.navbar-default .navbar-nav > li > a {
+width: 124px;
+}
+}
+
+@media (max-width: 511px) {
+.navbar-default .navbar-nav > li > a {
+width: 120px;
+}
+}
+
+@media (max-width: 510px) {
+.navbar-default .navbar-nav > li > a {
+width: 115px;
+}
+}
+
+@media (max-width: 485px) {
+	.academic_exp .col-md-12{    padding-right: 10px;    padding-left: 10px;}
+.nmobes input {
+width: 75%;
+}
+.expertsadd1   .subvttd button, .expertsadd1   .btn-info{
+       margin-top: 5px !important;
+    width: 36px!important;
+    font-size: 12px!important;
+    padding: 8px 3px!important;
+}
+..expertsadd1 .btn-danger { font-size: 12px!important;}
+.finders label {
+width: 48%
+}
+.expertdash_ad .nav-tabs>li.active>a, .expertdash_ad .nav-tabs>li.active>a:focus, .expertdash_ad .nav-tabs>li.active>a:hover {
+font-size: 10px !important;
+}
+
+}
+
+@media (max-width: 480px) {
+.navbar-default .navbar-nav > li > a {
+width: 114px;
+}
+}
+
+@media (max-width: 471px) {
+.navbar-default .navbar-nav > li > a {
+width: 110px;
+}
+}
+
+@media (max-width: 456px) {
+.navbar-default .navbar-nav > li > a {
+width: 105px;
+}
+}
+
+@media (max-width: 425px) {
+	.user_dash .set_photo .file-upload {
+   
+    right: 60px;
+}
+.experttavle input {
+width: 80px !important;
+}
+.movilephoe input {
+    width: 180px!important;
+}
+.experttavle input {}
+.set_photo .avatar-upload .avatar-preview {
+width: 110px;
+height: 110px;
+}
+.set_photo .avatar-upload .avatar-edit {
+right: 2px;
+top: 77px;
+}
+.user-panel {
+padding: 0px!important;
+}
+.set_photo .avatar-upload {
+margin: 5px auto;
+}
+.mainset-tap {
+margin-top: -80px;
+}
+.ahrefd li a {
+padding: 0px 11px;
+}
+.seachbar {
+float: right;
+margin-top: -6px;
+}
+.temmsir {
+float: right;
+margin-top: 37px;
+}
+.alltetare {
+padding: 8px 8px;
+}
+.small-text li a span {
+font-size: 11px;
+}
+.socialmhg,
+.socialmhg-2 {
+height: 140px;
+}
+.populd {
+padding: 11px 0px;
+}
+.tellmebest {
+margin: 12px 0px 0px 0px!important;
+}
+.servide h4 {
+font-size: 15px;
+}
+.left-soderr {
+float: none;
+width: 100%;
+}
+.right-soderr {
+float: none;
+width: 100%;
+}
+.navbar-default .navbar-nav > li > a {
+width: 140px;
+}
+.main-hairloss img {
+width: 80px;
+height: 60px;
+}
+.lefyr h3 {
+font-size: 15px;
+}
+.servheath ul li {
+left: 10%;
+}
+.nmobes input {
+width: 72%;
+}
+.inncova1 h4 {
+font-size: 15px;
+}
+.aswred {
+width: 100%;
+}
+.fullfect {
+padding-left: 6px;
+}
+.servheath ul {
+margin-bottom: 46px;
+border-bottom: none;
+margin-left: 54px;
+}
+.servheath ul li a {
+font-size: 20px;
+}
+.mainheasd img {
+width: 120px;
+margin-top: 5px;
+}
+
+.ics_ght {
+padding: 6px 3px;
+}
+.oluyd {
+float: none;
+margin-top: 5px;
+margin-right: 15px;
+}
+.askothdg ul li {
+padding: 2px 16px;
+}
+.first-dd {
+margin-top: 8px;
+}
+.first-dd h4 {
+line-height: 13px;
+font-size: 11px;
+}
+.talkds h4 {
+line-height: 18px;
+font-size: 11px;
+}
+.talkds h4 {
+line-height: 20px;
+font-size: 13px;
+text-align: center;
+}
+.telmess1 {
+float: none;
+margin-top: 60px;
+text-align: center;
+}
+.talkds {
+width: 100%;
+margin: 16px auto;
+}
+.patilove h2 {
+text-align: center;
+padding-bottom: 10px;
+font-weight: 600;
+font-size: 19px;
+}
+.fullfect p {
+color: #2B3246;
+text-align: center;
+font-size: 10px;
+}
+.mainlike b {
+font-size: 12px;
+}
+.mainconsut b {
+font-size: 12px;
+}
+.container {
+overflow: hidden;
+}
+.populd h3 {
+font-size: 15px;
+}
+.main-report b {
+font-size: 12px;
+}
+.mindt {
+float: none;
+}
+.nmobes .controls select {
+font-size: 11px;
+}
+.maindash {
+margin-top: 7px;
+}
+.lart li {
+font-size: 12px;
+margin: 4px 20px;
+}
+.jontoday ul li {
+font-size: 11px;
+padding: 2px 0px;
+}
+.footer-abut p {
+margin-top: 0px;
+line-height: 19px;
+font-size: 13px;
+}
+.orthop h4 {
+font-size: 13px;
+margin-top: 15px;
+text-align: center!important;
+}
+.chses h5 {
+font-size: 10px;
+padding-top: 8px;
+padding-left: 2px;
+}
+.vices_gridr {
+margin-top: 18px;
+padding-bottom: 14px;
+background-color: white;
+}
+.megg p {
+text-align: justify;
+}
+.ermidt li {
+padding: 2px 15px!important;
+}
+.ciledd ul li {
+padding: 2px 16px;
+}
+.patilove h2 {
+font-size: 16px;
+}
+.new-recend {
+font-size: 15px;
+font-weight: 600;
+}
+.ared h3 {
+font-size: 16px;
+}
+.askood ul li {
+padding: 3px 14px;
+}
+.getfour {
+margin-top: -17px;
+margin-bottom: 0px;
+}
+}
+
+@media (max-width: 375px) {
+.ahrefd li a {
+padding: 0px 7px;
+}
+.nmobes input {
+width: 69%;
+}
+.talkds h4 {
+line-height: 18.5px;
+font-size: 9px;
+}
+.talkds {
+margin: 0px auto;
+}
+.first-dd h4 {
+line-height: 12px;
+font-size: 11px;
+}
+.first-dd {
+margin-top: 6px;
+}
+}
+
+@media (max-width: 336px) {
+.nmobes input {
+width: 67%;
+}
+
+}
